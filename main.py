@@ -5,7 +5,7 @@ import imutils
 import easyocr
 
 # Load the image
-img = cv2.imread('unnamed.jpg')
+img = cv2.imread('name-of-your-image.type')
 
 # Convert the image to grayscale
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
