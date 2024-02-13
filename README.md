@@ -2,12 +2,12 @@
     OCR -  Vehicle License Plate Recognition 🚗
 </h1>
 
+![exemplos ocr](https://github.com/Miguel-Marsico/OCR---Vehicle-License-Plate-Recognition/assets/158609724/1b2e38c2-6d4b-4228-b4cc-5a0e6de8aac7)
 
  ## 📋 Topics
 <div>
  • <a href="#-about">About</a> </br>
  • <a href="#-tools">Tools</a> </br>
- • <a href="#-database-structure">Database structure</a> </br>
  • <a href="#-how-to-execute-the-project">How to execute the project</a> </br>
  • <a href="#-license">License</a></br>
 </div>
