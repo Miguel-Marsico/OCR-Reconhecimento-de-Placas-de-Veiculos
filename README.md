@@ -25,7 +25,7 @@ This project aims to explore the **OpenCv** library and **OCR** technology in **
 - [EasyOCR](https://pypi.org/project/easyocr/)
 - [Imutils](https://pypi.org/project/imutils/)
 
-### 🛠️ **Utilities** ([PostgreSQL](https://www.postgresql.org/docs/))
+### 🛠️ **Utilities** 
 
 - Compilers: **[Pycharm Community](https://www.jetbrains.com/pt-br/pycharm/)** 
 
