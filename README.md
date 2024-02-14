@@ -8,13 +8,13 @@
 <div>
  • <a href="#-about">About</a> </br>
  • <a href="#-tools">Tools</a> </br>
- • <a href="#-how-to-execute-the-project">How to execute the project</a> </br>
+ • <a href="#-how-to-execute-the-project">How to execute the project</a> </br>    
  • <a href="#-license">License</a></br>
 </div>
 
 ## 📗 About
 
-This project dives into exploring the **OpenCV** library and sharpening **machine learning** skills, focusing on vehicle **license plate recognition**.
+This project aims to explore the **OpenCv** library and **OCR** technology in **Python** to recognize **license plates** in vehicle images.
 
 ## 🔧 Tools
 
@@ -43,11 +43,10 @@ This project dives into exploring the **OpenCV** library and sharpening **machin
 ```bash
  python3 -m venv name
 ```
-3 - activate the virtual environment:
+3 - Activate the virtual environment:
 ```bash
  name\Scripts\activate
 ```
-
 
 #### Installing libraries:
 
@@ -65,12 +64,11 @@ This project dives into exploring the **OpenCV** library and sharpening **machin
 ```
 
 #### Library import:
-
 ```bash
  import cv2
  import numpy as np
- import imutils
  import easyocr
+ import imutils
 ```
 
 ## 📜 License
