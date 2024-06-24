@@ -1,5 +1,5 @@
 <h1>
-    OCR -  Vehicle License Plate Recognition 🚗
+    OCR - Detecção de Placas de Veículos 🚗
 </h1>
 
 ![exemplos ocr](https://github.com/Miguel-Marsico/OCR---Vehicle-License-Plate-Recognition/assets/158609724/1b2e38c2-6d4b-4228-b4cc-5a0e6de8aac7)
