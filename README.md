@@ -1,54 +1,54 @@
 <h1>
-    OCR - Detecção de Placas de Veículos 🚗
+    OCR - Reconhecimento de Placas de Veículos 🚗
 </h1>
 
 ![exemplos ocr](https://github.com/Miguel-Marsico/OCR---Vehicle-License-Plate-Recognition/assets/158609724/1b2e38c2-6d4b-4228-b4cc-5a0e6de8aac7)
 
- ## 📋 Topics
+ ## 📋 Tópicos
 <div>
- • <a href="#-about">About</a> </br>
- • <a href="#-tools">Tools</a> </br>
- • <a href="#-how-to-execute-the-project">How to execute the project</a> </br>    
- • <a href="#-license">License</a></br>
+ • <a href="#-sobre">Sobre</a> </br>
+ • <a href="#-ferramentas">Ferramentas</a> </br>
+ • <a href="#-como-executar-o-projeto">Como executar o projeto</a> </br>    
+ • <a href="#-licença">Licença</a></br>
 </div>
 
-## 📗 About
+## 📗 Sobre
 
-This project aims to explore the **OpenCv** library and **OCR** technology in **Python** to recognize **license plates** in vehicle images.
+Este projeto tem como objetivo explorar a biblioteca **OpenCv** e a tecnologia **OCR** ​​em **Python** para reconhecer **placas de veículos** em imagens de veículos.
 
-## 🔧 Tools
+## 🔧 Ferramentas
 
-### 👩‍💻 **Language** ([Pyhton](https://www.python.org))
+### 👩‍💻 **Linguagens** ([Pyhton](https://www.python.org))
 
 - [OpenCv](https://opencv.org)
 - [Numpy]( https://numpy.org)
 - [EasyOCR](https://pypi.org/project/easyocr/)
 - [Imutils](https://pypi.org/project/imutils/)
 
-### 🛠️ **Utilities** 
+### 🛠️ **Utilitários** 
 
-- Compilers: **[Pycharm Community](https://www.jetbrains.com/pt-br/pycharm/)** 
+- Compiladores: **[Pycharm Community](https://www.jetbrains.com/pt-br/pycharm/)** 
 
-## ▶ How to execute the project
+## ▶ Como executar o projeto
 
 ### ⚙️ Backend:
 
-#### Create a venv:
+#### Criando um ambiente virtual:
 
-1 - Navigate to the directory where you want to create the virtual environment:
+1 - Navegue até o diretório onde deseja criar o ambiente virtual:
 ```bash
  cd /path/to/your/project
 ```
-2 - Create virtual environment:
+2 - Crie um ambiente virtual:
 ```bash
  python3 -m venv name
 ```
-3 - Activate the virtual environment:
+3 - Ative o ambiente virtual:
 ```bash
  name\Scripts\activate
 ```
 
-#### Installing libraries:
+#### Instalação de bibliotecas:
 
 ```bash
  pip install opencv-python
@@ -63,7 +63,7 @@ This project aims to explore the **OpenCv** library and **OCR** technology in **
  pip install imutils
 ```
 
-#### Library import:
+#### Importação de bibliotecas:
 ```bash
  import cv2
  import numpy as np
@@ -71,8 +71,8 @@ This project aims to explore the **OpenCv** library and **OCR** technology in **
  import imutils
 ```
 
-## 📜 License
+## 📜 Licença
 
-### This project is under the MIT license. 
+### Este projeto está sob licença do MIT.
 <br>
-Developed by Miguel Marsico 👋🏻
+Desenvolvido por Miguel Marsico 👋🏻
